@@ -40,7 +40,7 @@ To trigger create a new branch for the commit and start a pull request. If the b
 https://user-images.githubusercontent.com/15995246/220902807-40fce8b1-bc99-448f-a62d-f1c2d5a7607a.mp4
 
 
-[Demo](https://youtu.be/WhBLKIh_vpo)
+[Play on youtube](https://youtu.be/WhBLKIh_vpo)
 
 
 
